@@ -460,8 +460,8 @@ Este proyecto está bajo la Licencia MIT. Ver archivo `LICENSE` para más detall
 
 Para reportar errores o sugerencias:
 
-- **Email**: soporte@tuempresa.com
-- **Issues**: [GitHub Issues](https://github.com/tu-usuario/sistema-inventario/issues)
+- **Email**: jc1667423@gmail.com
+- **Issues**: [GitHub Issues](https://github.com/jc1667423-u/sistema_inventario.git)
 
 ---
 
