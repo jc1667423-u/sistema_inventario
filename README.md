@@ -8,16 +8,16 @@ Sistema completo de gestión de inventario desarrollado en Python con interfaz g
 
 ---
 
-## ✨ Características Principales
+##  Características Principales
 
-- ✅ **Gestión de Productos** - CRUD completo con control de stock
-- ✅ **Gestión de Clientes y Proveedores** - Entidades unificadas
-- ✅ **Movimientos de Inventario** - Entradas y salidas con Kardex
-- ✅ **Sistema de Usuarios** - Autenticación con roles y permisos
-- ✅ **Reportes** - Exportación a Excel y PDF
-- ✅ **Dashboard** - Estadísticas en tiempo real
-- ✅ **Auditoría** - Sistema de logging completo
-- ✅ **Seguridad** - Contraseñas encriptadas con bcrypt
+-  **Gestión de Productos** - CRUD completo con control de stock
+-  **Gestión de Clientes y Proveedores** - Entidades unificadas
+-  **Movimientos de Inventario** - Entradas y salidas con Kardex
+-  **Sistema de Usuarios** - Autenticación con roles y permisos
+-  **Reportes** - Exportación a Excel y PDF
+-  **Dashboard** - Estadísticas en tiempo real
+-  **Auditoría** - Sistema de logging completo
+-  **Seguridad** - Contraseñas encriptadas con bcrypt
 
 ---
 
@@ -47,7 +47,7 @@ bcrypt==4.1.2
 
 ---
 
-## 🚀 Instalación
+##  Instalación
 
 ### 1. Clonar o Descargar el Proyecto
 
@@ -399,10 +399,10 @@ Esto restablece la contraseña a `admin123`.
 
 El sistema registra automáticamente:
 
-- ✅ **Autenticaciones** (exitosas y fallidas)
-- ✅ **Movimientos de inventario** (entradas y salidas)
-- ✅ **Errores de base de datos**
-- ✅ **Acciones críticas** (creación/eliminación de usuarios, etc.)
+-  **Autenticaciones** (exitosas y fallidas)
+-  **Movimientos de inventario** (entradas y salidas)
+-  **Errores de base de datos**
+-  **Acciones críticas** (creación/eliminación de usuarios, etc.)
 
 Los logs se guardan en la carpeta `logs/`:
 - `sistema.log` - Log general (INFO y superior)
@@ -465,11 +465,6 @@ Para reportar errores o sugerencias:
 
 ---
 
-## 🙏 Agradecimientos
-
-Desarrollado con ❤️ para facilitar la gestión de inventarios en pequeñas y medianas empresas.
-
----
 
 **Versión:** 1.0.0  
 **Última actualización:** Diciembre 2025
