@@ -1,0 +1,27 @@
+
+# Dependencias del Sistema de Gestión de Inventario
+
+# Base de datos
+pymysql==1.1.0
+
+# Configuración
+python-decouple==3.8
+
+# Interfaz gráfica (Tkinter viene con Python)
+
+# Reportes y Excel
+openpyxl==3.1.2
+xlsxwriter==3.1.9
+
+# PDF
+reportlab==4.0.7
+
+# Gráficos
+matplotlib==3.8.2
+pillow==10.1.0
+
+# Utilidades
+python-dateutil==2.8.2
+
+# Seguridad (para hashear contraseñas)
+bcrypt==4.1.2
